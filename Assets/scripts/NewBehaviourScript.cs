@@ -7,6 +7,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Start () {
 	
 		Debug.Log("Sale nema pojma");
+		Debug.LogWarning("Brankica je zajebana");
 	}
 	
 
